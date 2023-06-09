@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la id master
+ls -la -ugG
