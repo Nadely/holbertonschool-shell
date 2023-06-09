@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la tree -dai -L 1
+ls -la | grep '^d'
