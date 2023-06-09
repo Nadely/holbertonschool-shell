@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la basics/ holbertonscholl-shell/ boot/
+ls basics/ holbertonscholl-shell/ boot/ -la
