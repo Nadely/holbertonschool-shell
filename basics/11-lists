@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a dir /w
+ls -lad $PWD/*
