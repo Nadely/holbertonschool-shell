@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lad $PWD/*
+ls -la basics/ holbertonscholl-shell/ boot/
