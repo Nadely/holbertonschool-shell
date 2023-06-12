@@ -1,2 +1,2 @@
 #!/bin/bash
-cat -t /ect/passwd
+tail -n11 /ect/passwd
