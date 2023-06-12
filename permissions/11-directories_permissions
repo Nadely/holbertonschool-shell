@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --prederve-root +x /hello
+chmod --preserve-root +x /hello
