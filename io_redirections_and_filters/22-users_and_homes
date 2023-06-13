@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 cut -d: -f1 /etc/passwd
-=======
-passwd | sort /etc/passwd
->>>>>>> 7aa7cf7594ea0bba93df2575867484aa2f0d9d05
