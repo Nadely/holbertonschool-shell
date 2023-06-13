@@ -1,2 +1,2 @@
 #!/bin/bash
-sort /etc/passwd | passwd name | passwd directory
+passwd name | passwd directory | sort /etc/passwd
