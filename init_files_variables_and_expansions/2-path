@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$/action/Script:$PATH"
+export PATH="$PATH/Script:/action"
