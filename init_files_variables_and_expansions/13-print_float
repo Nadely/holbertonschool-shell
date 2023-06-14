@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $NUM | printf %d 2
+echo $NUM
