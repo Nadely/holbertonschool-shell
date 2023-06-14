@@ -1,0 +1,2 @@
+#!/bin/bash
+echo [[:lower:]]_{a..z}
