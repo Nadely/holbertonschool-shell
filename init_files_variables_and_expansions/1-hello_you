@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'hello user'  > README.md  | cat README.md | echo ~
+echo hello | echo $USER
